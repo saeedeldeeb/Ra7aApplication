@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ra7aApplication</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="google_credentials">243305648129-217iqh0772i8o7cvel7tn9qk0rn5secc.apps.googleusercontent.com</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
